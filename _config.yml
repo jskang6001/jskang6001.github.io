@@ -37,4 +37,11 @@ comment:
   provider: "disqus"
   disqus:
     shortname: "super-corini"
+
+analytics:
+  provider : "goolgle-gtag"
+              # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id : "G-LWWJN7LK6F"
+    anonymize_ip :  # true, false (default)
     
