@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <header>
@@ -13,7 +14,7 @@ layout: default
     {% include post-tags.html post=page %}
   </div>
 
-  {% include comments.html %}
+  {% include disqus.html %}
   {% include related_posts.html %}
 </div>
 
