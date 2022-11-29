@@ -1,12 +1,7 @@
 ---
 layout: post
-title: What's Jekyll?
+title: 깃허브는 무엇인가?
 ---
+깃허브는 루비 온 레일스로 작성된 분산 버전 관리 툴인 깃 저장소 호스팅을 지원하는 웹 서비스이다. 깃허브는 영리적인 서비스와 오픈소스를 위한 무상 서비스를 모두 제공한다. 2009년의 깃 사용자 조사에 따르면 깃허브는 가장 인기있는 깃 저장소 호스팅 서비스이다. 또한 2011년의 조사에서도 가장 인기있는 오픈 소스 소프트웨어 인터넷 호스팅 서비스로 꼽혔다.
 
-[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
-
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+깃이 텍스트 명령어 입력 방식인데 반해, 깃허브는 그래픽 유저 인터페이스(GUI)를 제공한다. 깃허브는 페이스트빈(pastebin)과 유사한 서비스인 기스트(Gist)와 위키를 각 저장소마다 운영하고 있으며, 깃 저장소를 통해 고칠 수 있다.
