@@ -1,38 +1,7 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: 깃허브는 무엇인가?
 ---
+깃허브는 루비 온 레일스로 작성된 분산 버전 관리 툴인 깃 저장소 호스팅을 지원하는 웹 서비스이다. 깃허브는 영리적인 서비스와 오픈소스를 위한 무상 서비스를 모두 제공한다. 2009년의 깃 사용자 조사에 따르면 깃허브는 가장 인기있는 깃 저장소 호스팅 서비스이다. 또한 2011년의 조사에서도 가장 인기있는 오픈 소스 소프트웨어 인터넷 호스팅 서비스로 꼽혔다.
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
-### Built on Poole
-
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Lanyon features
-
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+깃이 텍스트 명령어 입력 방식인데 반해, 깃허브는 그래픽 유저 인터페이스(GUI)를 제공한다. 깃허브는 페이스트빈(pastebin)과 유사한 서비스인 기스트(Gist)와 위키를 각 저장소마다 운영하고 있으며, 깃 저장소를 통해 고칠 수 있다.
